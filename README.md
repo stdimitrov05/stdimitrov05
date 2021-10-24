@@ -5,6 +5,10 @@
 <h3 align="center">I am a student and I like to program</h3>
 <h3 align="center"><img src="http://1.bp.blogspot.com/-wFHxwelunxY/TcnU5GcNSnI/AAAAAAAAAzc/GD1SSoNuEIA/s1600/Animated+Flag+of+Bulgaria.gif" width="30px"> Bulgaria </h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=stdimitrov05&label=Profile%20views&color=0e75b6&style=flat" alt="stdimitrov05" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stdimitrov05&theme=radical" alt="stdimitrov05" /></a> </p>
+
 
 
 ### Connect with me:
@@ -26,6 +30,11 @@
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stdimitrov05&theme=radical)
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Stanislav Dimitrov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stdimitrov05&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stdimitrov05&label=Profile%20views&color=0e75b6&style=flat" alt="stdimitrov05" /> </p>
+
+
+
+
 </details>
 
 

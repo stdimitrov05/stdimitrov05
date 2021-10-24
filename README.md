@@ -12,8 +12,12 @@
 
 
 ### Connect with me:
-[<img align="left" alt="stdimitrov05 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="stdimitrov05 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
+<p align="left">
+<a href="https://instagram.com/st_d05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="st_d05" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/tEvRbYU8Ek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/tEvRbYU8Ek" height="30" width="40" /></a>
+</p>
+<a href="https://stackoverflow.com/users/16242889/st-d05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16242889/st-d05" height="30" width="40" /></a>
+</p>
 <br />
 <br/>
 
@@ -29,8 +33,9 @@
 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stdimitrov05&theme=radical)
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Stanislav Dimitrov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stdimitrov05&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stdimitrov05&theme=radical" alt="stdimitrov05" /></p>
   <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stdimitrov05&label=Profile%20views&color=0e75b6&style=flat" alt="stdimitrov05" /> </p>
+
 
 
 
@@ -40,5 +45,5 @@
 
 
 
-[discord]: https://discord.gg/tEvRbYU8Ek
-[instagram]:https://www.instagram.com/st_d05/
+
+

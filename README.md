@@ -1,5 +1,5 @@
 
-<a href="#"><img width="25%" height="auto"  src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto"  src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Stanislav</h1>
 <h3 align="center">I am a student and I like to program</h3>

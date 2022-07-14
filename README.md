@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Stdimitrov05</h1>
 <h3 align="center">A passionate back-end developer from Bulgaria</h3>
+Back-End Developer
+------------------
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stdimitrov05&label=Profile%20views&color=0e75b6&style=flat" alt="stdimitrov05" /> </p>
+* 🖥️  See my portfolio at [here.](http://my-portfolio-site-web.herokuapp.com/#)
+* ✉️  You can contact me at [stdimitrov05@gmail.com](mailto:stdimitrov05@gmail.com)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stdimitrov05" alt="stdimitrov05" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/st_d05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="st_d05" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/FbJ8DrdtMp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/FbJ8DrdtMp" height="30" width="40" /></a>
-</p>
+<a href="https://www.github.com/Simona03" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Stdimitrov05?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
+### Skills
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>

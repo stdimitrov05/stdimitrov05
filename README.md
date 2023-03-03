@@ -25,7 +25,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/stdimitrovO"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="stdimitrovO5" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stdimitrov05&show_icons=true&locale=en&layout=compact" alt="stdimitrov05" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stdimitrov05&show_icons=true&locale=en&layout=compact&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="stdimitrov05" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stdimitrov05&show_icons=true&locale=en" alt="stdimitrov05" /></p>
 

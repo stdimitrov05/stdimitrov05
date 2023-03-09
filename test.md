@@ -1,96 +1,40 @@
-<div class="brasil" data-text="COMING SOON">COMING SOON</div>
+using System;
 
-<style>
-  body {
-  background: #000;
-  display: flex;
-  align-items: center;
-  height: 100vh;
-  justify-content: center;
-}
+class Program {
+  static void Main() {
+    Console.Write("Enter the size of the matrix: ");
+    int size = int.Parse(Console.ReadLine());
+    double[,] matrix = new double[size, size];
+    for (int i = 0; i < size; i++) {
+      for (int j = 0; j < size; j++) {
+        Console.Write($"Enter the element at row {i+1} column {j+1}: ");
+        matrix[i, j] = double.Parse(Console.ReadLine());
+      }
+    }
+    double det = Determinant(matrix, size);
+    Console.WriteLine($"The determinant of the matrix is {det}.");
+  }
 
-.brasil {
-  font-family: arial;
-  position: relative;
-   color: #fff;
-  text-align: center;
-  font-size: 7rem;
-  max-width: 1200px;
-  margin: 0 auto;
-}
-.brasil::before,
-.brasil::after {
-  content: attr(data-text);
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-.brasil::before {
-  left: 2px;
-    clip: rect(79px, 1200px, 86px, 0);
-  text-shadow: -1px 0 red;
-  background: #000;
-  animation: brasil-anim-2 1s infinite linear alternate-reverse;
-}
-
-.brasil::after {
-  /* variation */
-  left: -2px;
-  clip: rect(79px, 1200px, 86px, 0);
-  text-shadow: -1px 0 blue;
-  background: #000;
-  animation: brasil-anim-1 1s infinite linear alternate-reverse;
-   animation-delay: -1s;
-}
-
-@keyframes brasil-anim-1 {
-  0% {
-    clip: rect(20px, 1200px, 76px, 0);
-  }
-  20% {
-    clip: rect(19px, 1200px, 16px, 0);
-  }
-  40% {
-    clip: rect(16px, 1200px, 3px, 0);
-  }
-  60% {
-    clip: rect(62px, 1200px, 78px, 0);
-  }
-  80% {
-    clip: rect(25px, 1200px, 13px, 0);
-  }
-  100% {
-    clip: rect(53px, 1200px, 86px, 0);
+  static double Determinant(double[,] matrix, int size) {
+    if (size == 1) {
+      return matrix[0, 0];
+    } else if (size == 2) {
+      return matrix[0, 0] * matrix[1, 1] - matrix[0, 1] * matrix[1, 0];
+    } else {
+      double det = 0;
+      for (int j = 0; j < size; j++) {
+        double[,] submatrix = new double[size - 1, size - 1];
+        for (int i = 1; i < size; i++) {
+          for (int k = 0; k < size; k++) {
+            if (k != j) {
+              submatrix[i - 1, k < j ? k : k - 1] = matrix[i, k];
+            }
+          }
+        }
+        int sign = j % 2 == 0 ? 1 : -1;
+        det += sign * matrix[0, j] * Determinant(submatrix, size - 1);
+      }
+      return det;
+    }
   }
 }
-
-@keyframes brasil-anim-2 {
-  0% {
-    clip: rect(79px, 1200px, 86px, 0);
-  }
-  
-  20% {
-    clip: rect(20px, 1200px, 30px, 0)
-  }
-  
-  40% {
-    clip: rect(25px, 1200px, 5px, 0)
-  }
-  
-  60% {
-    clip: rect(65px, 1200px, 85px, 0)
-  }
-  
-  80% {
-    clip: rect(120px, 1200px, 145px, 0)
-  }
-  
-  100% {
-    clip: rect(95px, 1200px, 75px, 0)
-  }
-}
-</style>
-   raw • new • about

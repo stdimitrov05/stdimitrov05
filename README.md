@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stdimitrov05" alt="stdimitrov05" /></a> </p>
 
-- 🔭 I’m currently working on [DevBook](https://github.com/stdimitrov05/DevBook_backend)
 
 - 🌱 I’m currently learning **Phalcon, React js and ReactNative**
 

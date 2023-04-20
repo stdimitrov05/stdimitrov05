@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stdimitrov05&label=Profile%20views&color=0e75b6&style=flat" alt="stdimitrov05" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stdimitrov05" alt="stdimitrov05" /></a> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stdimitrov05&theme=onedark" alt="stdimitrov05" /></a> </p>
 
 - 🌱 I’m currently learning **Phalcon, React js and ReactNative**
 

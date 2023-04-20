@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stdimitrov05&label=Profile%20views&color=0e75b6&style=flat" alt="stdimitrov05" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stdimitrov05&theme=onedark" alt="stdimitrov05" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stdimitrov05&theme=monokai" alt="stdimitrov05" /></a> </p>
 
 - 🌱 I’m currently learning **Phalcon, React js and ReactNative**
 
@@ -19,9 +19,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/stdimitrovO"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="stdimitrovO5" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stdimitrov05&show_icons=true&locale=en&layout=compact&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&theme=onedark" alt="stdimitrov05" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stdimitrov05&show_icons=true&locale=en&layout=compact&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&theme=monokai" alt="stdimitrov05" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stdimitrov05&theme=onedark&show_icons=true&locale=en" alt="stdimitrov05" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stdimitrov05&theme=monokai&show_icons=true&locale=en" alt="stdimitrov05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stdimitrov05&&theme=onedark" alt="stdimitrov05" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stdimitrov05&&theme=monokai" alt="stdimitrov05" /></p>
 
